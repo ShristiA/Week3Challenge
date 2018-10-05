@@ -18,9 +18,9 @@ public class Main {
                 myMethod(i);
                 //calling method so that it can run the codes method under it.
             }
-            System.out.println("Would you like to enter another number(y/n)");
+            System.out.println("Enter another number(y/n)");
             response = src.next();
-            System.out.println("Would you like to enter anthoer number (y/n)");
+            System.out.println("Enter anthoer number (y/n)");
             response = src.next();
 
             // asking and giving the output
