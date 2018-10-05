@@ -20,7 +20,7 @@ public class Main {
             }
             System.out.println("Enter another number(y/n)");
             response = src.next();
-            System.out.println("Enter anthoer number (y/n)");
+            System.out.println("Enter another number (y/n)");
             response = src.next();
 
             // asking and giving the output
